@@ -50,6 +50,7 @@ The Numeracy-600K dataset includes two subsets:
 # Download
 Click [here](http://nlg.csie.ntu.edu.tw/nlpresource/Numeracy600K/Numeracy_600K_comment.zip) to download Market Comments data.
 Click [here](http://nlg.csie.ntu.edu.tw/nlpresource/Numeracy600K/Numeracy_600K_article_title.json) to download Atricle Titles data.
+> If you encounter issues when clicking the above link, please paste the link url to your browser url to download.
 
 
 # How to Cite the Corpus
