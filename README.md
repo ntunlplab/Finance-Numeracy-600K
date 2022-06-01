@@ -48,7 +48,9 @@ The Numeracy-600K dataset includes two subsets:
 }
 ```
 # Download
-Please go to [resources page](http://nlg.csie.ntu.edu.tw/nlpresource/Numeracy600K/) to access resources.
+Click [here](http://nlg.csie.ntu.edu.tw/nlpresource/Numeracy600K/Numeracy_600K_comment.zip) to download Market Comments data.
+Click [here](http://nlg.csie.ntu.edu.tw/nlpresource/Numeracy600K/Numeracy_600K_article_title.json) to download Atricle Titles data.
+
 
 # How to Cite the Corpus
 Please cite the following paper when referring to the Numeracy-600K in academic publications and papers.
